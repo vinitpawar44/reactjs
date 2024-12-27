@@ -1,0 +1,75 @@
+[
+    {
+        "ID":"1",
+        "Name": "Ravi",
+        "Email":"ravi25@gmail.com"
+    },
+    {
+        "ID":"2",
+        "Name": "Hetal",
+        "Email":"hetal24gmail.com"
+    },
+    {
+        "ID":"3",
+        "Name": "Tomy",
+        "Email":"@tomy2245gmail.com"
+    },
+    {
+        "ID":"4",
+        "Name": "Mani",
+        "Email":"@mani2598gmail.com"
+    },
+    {
+        "ID":"5",
+        "Name": "Kavita",
+        "Email":"kavi135@gmail.com"
+    },
+    {
+        "ID":"6",
+        "Name": "Namita",
+        "Email":"namita256798@gmail.com"
+    },
+    {
+        "ID":"7",
+        "Name": "Rani",
+        "Email":"rani000@gmail.com"
+    },
+    {
+        "ID":"8",
+        "Name": "Sandip",
+        "Email":"sandip6975@gmail.com"
+    },{
+        "ID":"9",
+        "Name": "Umesh",
+        "Email":"umesh555gmail.com"
+    },{
+        "ID":"10",
+        "Name": "Jay",
+        "Email":"jay98534@gmail.com"
+    },
+    {
+        "ID":"11",
+        "Name": "swaroopa",
+        "Email":"swaroopaaj67634gmail.com"
+    },
+    {
+        "ID":"12",
+        "Name": "hardik",
+        "Email":"hardik9784@gmail.com"
+    },
+    {
+        "ID":"13",
+        "Name": "Sahil",
+        "Email":"@sahil984gmail.com"
+    },
+    {
+        "ID":"14",
+        "Name": "karan",
+        "Email":"karangurav@gmail.com"
+    },
+    {
+        "ID":"15",
+        "Name": "vinit",
+        "Email":"vinitpawar44@gmail.com"
+    }
+]   
